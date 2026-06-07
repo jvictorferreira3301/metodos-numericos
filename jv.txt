@@ -1,4 +1,0 @@
-João
-Tópico 5: Aplicação prática dos testes manuais e problemas do PDF anexo (Problemas 2.1 a 2.3).
- Tópico 6: Programa de Decomposição LU para matrizes quadradas, cálculo de matrizes inversas e resolução de sistemas.
- Tópico 7: Programa para resolução de sistemas via Métodos Iterativos (Método de Gauss-Seidel e Iteração de Jacobi).
